@@ -1,0 +1,33 @@
+_repo: Two-Years-Among-New-Guinea-Cannibals-A-Naturalists-Sojourn-Among-the-Aborigines-of-Unexplored__66773
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Pratt, Henry
+    gutenberg_agent_id: '53953'
+    url: http://www.gutenberg.org/2009/agents/53953
+creator:
+  author:
+    agent_name: Pratt, A. E. (Antwerp Edgar)
+    alias: Pratt, Antwerp Edgar
+    birthdate: 1852
+    deathdate: 1924
+    gutenberg_agent_id: '53952'
+    url: http://www.gutenberg.org/2009/agents/53952
+    wikipedia: https://en.wikipedia.org/wiki/Antwerp_Edgar_Pratt
+description: ''
+gutenberg_issued: '2021-11-19'
+identifiers:
+  gutenberg: '66773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- New Guinea'
+- !lcc 'DU'
+- !lcsh 'Ethnology -- New Guinea'
+- !lcsh 'New Guinea -- Description and travel'
+- GITenberg
+title: "Two Years Among New Guinea Cannibals\r\nA Naturalist’s Sojourn Among the Aborigines\
+  \ of Unexplored New Guinea"
+url: http://www.gutenberg.org/ebooks/66773
