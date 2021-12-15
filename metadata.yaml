@@ -5,6 +5,9 @@ contributor:
     agent_name: Pratt, Henry
     gutenberg_agent_id: '53953'
     url: http://www.gutenberg.org/2009/agents/53953
+covers:
+- cover_type: archival
+  image_path: 66773-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, A. E. (Antwerp Edgar)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53952
     wikipedia: https://en.wikipedia.org/wiki/Antwerp_Edgar_Pratt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66773#Two-Years-Among-New-Guinea-Cannibals-A-Naturalists-Sojourn-Among-the-Aborigines-of-Unexplored_
 gutenberg_issued: '2021-11-19'
 identifiers:
   gutenberg: '66773'
